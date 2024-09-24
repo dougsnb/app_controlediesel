@@ -24,10 +24,8 @@ Acesse a página do repositório no GitHub.
 Clique no botão "Code" e selecione "Download ZIP".
 Extraia o arquivo ZIP em uma pasta de sua escolha.
 
-Instalar Dependências:
-Navegue até a pasta extraída (build/exe.win-amd64-3.12)
-
 Executar o Aplicativo:
+Navegue até a pasta extraída (build/exe.win-amd64-3.12)
 Vá até a pasta onde o aplicativo está localizado.
 Clique duas vezes no arquivo Controle Abastecimento.exe para iniciar o aplicativo.
 
