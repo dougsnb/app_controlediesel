@@ -1,4 +1,5 @@
 Controle de Abastecimento de Diesel
+
 Este é um aplicativo desenvolvido em Python para controlar o abastecimento de diesel.
 O programa permite registrar e gerenciar informações sobre o consumo e o abastecimento de diesel, 
 proporcionando uma maneira eficiente de monitorar o uso de combustível.
